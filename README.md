@@ -1,0 +1,2 @@
+# NCHRC-Naloxone-Challenge
+App that increases the likelihood of timely naloxone administration by connecting opioid users experiencing an overdose with nearby naloxone carriers. FDA is most interested in concepts that are readily scalable, free or low-cost to the end-user, and take advantage of existing systems for naloxone distribution and use. FDA’s expectation is that any app developed through the Competition will be used with FDA-approved naloxone products.
